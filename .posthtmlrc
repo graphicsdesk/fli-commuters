@@ -36,7 +36,7 @@
             "type": "image",
             "value": {
               "width": "auto",
-              "asset": "X2677XHZDNHL5MMQJGRSJ625JQ.tif",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/X2677XHZDNHL5MMQJGRSJ625JQ.JPG",
               "caption": "Gershom Miranda is a student at the school of General Studies.",
               "credit": "Maria Shaughnessy / Columbia Daily Spectator"
             }
@@ -50,9 +50,12 @@
             "value": "Recently, Miranda moved back in with his family so he could quit working and dedicate more time to his studies. While paying rent is no longer a concern, he spends $127 monthly for a MetroCard, totaling to about $1,524 a year. The Long Island Rail Road, which would cut Miranda’s commute by 25 minutes, would cost an additional $1,284 each year."
           },
           {
-            "type": "graphic",
+            "type": "image",
             "value": {
-              "asset": "miranda.html"
+              "width": "auto",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/ESIUWIICR5GUJLFVJKCOTZPKAE.png",
+              "caption": "",
+              "credit": "Devon Campbell / Columbia Daily Spectator"
             }
           },
           {
@@ -62,16 +65,10 @@
           {
             "type": "image",
             "value": {
-              "Width": "auto",
-              "asset": "HBPRCV2BKBFGDCH2LPBLUUF47A.tif",
+              "width": "auto",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/HBPRCV2BKBFGDCH2LPBLUUF47A.JPG",
               "caption": "Mario Torres pictured with the bike he commutes to campus on.",
               "credit": "Maria Shaughnessy / Columbia Daily Spectator"
-            }
-          },
-          {
-            "type": "graphic",
-            "value": {
-              "asset": "torres.html"
             }
           },
           {
@@ -139,21 +136,30 @@
             "value": "Torres rented a 60-inch locker with the intention of storing his electric scooter, which he bought as an alternative to biking because he “didn’t like sitting in class sweaty.” The scooter ended up not fitting in his locker and with no place to store it, he now plans to return it. With the winter months approaching, Torres says he will “ride the bike to the train until [he cannot] bear it.”"
           },
           {
-            "type": "text",
-            "value": "“I don’t really have a place where I could store things because the lockers that are available that you have to pay for are pretty small,” Torres said. “I would love if they were like, ‘Yeah, here, grab a locker.’”"
-          },
-          {
             "type": "image",
             "value": {
-              "Width": "auto",
-              "asset": "REJP6AOMFVHMJOLKA6KRQK7BQI.tif",
-              "caption": "Ally Woodward is a student at the school of General Studies.",
-              "credit": "Maria Shaughnessy / Columbia Daily Spectator"
+              "width": "auto",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/HBT3RQKDQNGUFJXPYUVOYPDWR4.png",
+              "caption": "",
+              "credit": "Devon Campbell / Columbia Daily Spectator"
             }
           },
           {
             "type": "text",
+            "value": "“I don’t really have a place where I could store things because the lockers that are available that you have to pay for are pretty small,” Torres said. “I would love if they were like, ‘Yeah, here, grab a locker.’”"
+          },
+          {
+            "type": "text",
             "value": "In addition to the lack of resources for commuting students, Ally Woodard, GS ’23, who lives a 20-minute walk away from campus, said that the “social dynamic is different” for commuters and feels “there’s definitely a bit of a disconnect.”"
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "auto",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/REJP6AOMFVHMJOLKA6KRQK7BQI.JPG",
+              "caption": "Ally Woodward is a student at the school of General Studies.",
+              "credit": "Maria Shaughnessy / Columbia Daily Spectator"
+            }
           },
           {
             "type": "text",
@@ -209,15 +215,11 @@
           },
           {
             "type": "text",
-            "value": "<i>Staff writer Isabella Ramírez can be contacted at </i><a href=\"mailto:isabella.ramirez@columbiaspectator.com\"><i>isabella.ramirez@columbiaspectator.com</i></a><i>. Follow Spectator on Twitter @</i><a href=\"http://twitter.com/columbiaspec\"><i>ColumbiaSpec</i></a><i>. </i>"
+            "value": "<i>Staff writer Isabella Ramírez can be contacted at </i><a href=\"mailto:isabella.ramirez@columbiaspectator.com\"><i>isabella.ramirez@columbiaspectator.com</i></a><i>. </i>"
           },
           {
             "type": "text",
-            "value": "<i>Graphics reporter Devon Campbell can be contacted at </i><a href=\"mailto:editor@columbiaspectator.com\"><i>editor@columbiaspectator.com</i></a><i>. </i>"
-          },
-          {
-            "type": "text",
-            "value": "<i>Staff photographers Elisabeth McLaughlin and Maria Shaughnessy can be contacted at </i><a href=\"mailto:editor@columbiaspectator.com\"><i>editor@columbiaspectator.com</i></a><i>. </i>"
+            "value": "<i>Graphics reporter Devon Campbell and staff photographer Maria Shaughnessy can be contacted at </i><a href=\"mailto:editor@columbiaspectator.com\"><i>editor@columbiaspectator.com</i></a><i>. Follow Spectator on Twitter @</i><a href=\"http://twitter.com/columbiaspec\"><i>ColumbiaSpec</i></a><i>. </i>"
           },
           {
             "type": "text",
@@ -225,9 +227,9 @@
           }
         ],
         "headline": "First-generation low-income commuter students grapple with accessibility to campus resources, community visibility, and social support",
-        "date": "November 3, 2021",
-        "byline": "By Isabella Ramírez",
-        "cover_asset": "ElisabethMcLaughlin_FirstYearInternshipGuide_CDS.tif",
+        "date": "November 4, 2021",
+        "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/isabella-ramirez/\">Isabella Ramírez</a>",
+        "cover_asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/WWSWYBZA3BBUFMQGDI7GFHB474.jpg",
         "cover_caption": "Photo by Elisabeth McLaughlin",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
