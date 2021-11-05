@@ -22,12 +22,13 @@ function init() {
 const SECTION_MAIN_SELECTOR = 'div#fusion-app';
 
 // ARTICLE_SELECTOR is where Arc Publishing puts the actual article content
-const ARTICLE_SELECTOR = 'div#fusion-app > div > div';
+const ARTICLE_SELECTOR = 'div#fusion-app > section > div:nth-child(3) > div > section';
 
 function hoistArticle() {
   // Store nodes of interest
   const sectionMain = document.querySelector(SECTION_MAIN_SELECTOR);
   const article = document.querySelector(ARTICLE_SELECTOR);
+  console.log(article);
   sectionMain.parentNode.replaceChild(article, sectionMain);
 
   // Arc server-side-renders elements like links and meta tags in Spectate's index.html <head>
